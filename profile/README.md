@@ -1,6 +1,6 @@
 # AND - 프로디지털아카데미 6기 파이널 프로젝트 최우수상🥇
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/7021e5e1-180a-40ff-aaff-cc8d05588aac" />
-**4조: 사용자 정의 조건으로 개인화된 주식 모니터링 · 알림 서비스**
+4조: 사용자 정의 조건으로 개인화된 주식 모니터링 · 알림 서비스
 
 ## 프로젝트 개요
 ### 소개
